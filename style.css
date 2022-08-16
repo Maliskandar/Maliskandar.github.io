@@ -30,3 +30,14 @@
     background-color: rgb(241, 241, 241);
 }
 
+.btn btn-primary:hover {
+    border: 2px solid blue;
+    color: blue;
+    background-color: #17181c;
+}
+
+.btn btn-primary:active {
+    border: 2px solid blue;
+    color: blue;
+    background-color: #17181c;
+}
